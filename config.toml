@@ -1,0 +1,7 @@
+baseURL = ""
+languageCode = "en-us"
+title = "LOLCode Site Using Hugo"
+pygmentsStyle = "colorful"
+pygmentsUseClasses = false
+pygmentsCodeFences = true
+
